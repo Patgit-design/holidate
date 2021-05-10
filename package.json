@@ -1,0 +1,33 @@
+{
+  "name": "@patdesign/holidate",
+  "version": "1.0.0",
+  "bin": {
+    "holidate": "index.js"
+  },
+  "description": " a tool to get the holidays of the current year for the given country",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "country-list": "^2.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Patgit-design/holidate.git"
+  },
+  "keywords": [
+    "holidays",
+    "npm",
+    "CLI",
+    "tool"
+  ],
+  "author": "patdesign",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Patgit-design/holidate/issues"
+  },
+  "homepage": "https://github.com/Patgit-design/holidate#readme"
+}
